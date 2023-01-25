@@ -21,4 +21,4 @@ const findItemByAnyIndex = (items, index) => {
 }
 
 console.log(findItemByAnyIndex([1, 2, 3], -1)) // return: 3
-console.log(findItemByAnyIndex([1, 2, 3], 4)) // return: 1
+console.log(findItemByAnyIndex([1, 2, 3], 3)) // return: 1
